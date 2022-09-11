@@ -1,12 +1,24 @@
-### Hi there 👋
 
-<!--
-**Solomon454/Solomon454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/*CODE EMPWROR*/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Front and backend engineering
-- 🌱 I’m currently learning ...frontend and backend
-- 👯 I’m looking to collaborate on ... The above
-- 📫 How to reach me: ... ehigiamusoepeter93@gmail.com
--->
+
+#include <stdio.h>
+
+
+int main ()
+
+
+{
+
+  char NAME [20];
+
+
+   printf("ENTER NAME : ");
+   scanf("%s", &NAME);
+
+   printf("I %s HAS SUCCESSFULLY PASSED MY EXAMINATION");
+
+   return 0;
+
+}
